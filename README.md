@@ -1,1 +1,3 @@
 # Script-Email-Sender-PHP
+Un simple Script que permite mandar un correo, cosa funcional
+para formularios de contacto en paginas web...
